@@ -1,0 +1,42 @@
+{
+  "name": "encoded",
+  "version": "1.0.0",
+  "description": "Encode things",
+  "license": "MIT",
+  "repository": "tobihrbr/encoded",
+  "author": {
+    "name": "Tobias Herber",
+    "email": "tobihrbr@gmail.com",
+    "url": "tobihrbr.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "nyc ava",
+    "lint": "fyi",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "encode",
+    "encoded",
+    "decode",
+    "decoded",
+    "base64",
+    "base",
+    "64",
+    "convert",
+    "url",
+    "buffer",
+    "to"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "fyi": "^1.0.1",
+    "nyc": "^11.1.0"
+  }
+}
