@@ -1,4 +1,4 @@
-# encoded [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi) [![Build Status](https://travis-ci.org/tobihrbr/encoded.svg?branch=master)](https://travis-ci.org/tobihrbr/encoded) [![Build status](https://ci.appveyor.com/api/projects/status/3fworofgx8r02yvr?svg=true)](https://ci.appveyor.com/project/tobihrbr/encoded) [![Coverage Status](https://coveralls.io/repos/github/tobihrbr/encoded/badge.svg?branch=master)](https://coveralls.io/github/tobihrbr/encoded?branch=master)
+# encoded [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi) [![Build Status](https://travis-ci.org/herber/encoded.svg?branch=master)](https://travis-ci.org/herber/encoded) [![Build status](https://ci.appveyor.com/api/projects/status/3fworofgx8r02yvr?svg=true)](https://ci.appveyor.com/project/tobihrbr/encoded) [![Coverage Status](https://coveralls.io/repos/github/tobihrbr/encoded/badge.svg?branch=master)](https://coveralls.io/github/tobihrbr/encoded?branch=master)
 
 > Encode things
 
